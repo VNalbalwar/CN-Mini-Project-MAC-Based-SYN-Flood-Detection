@@ -1,0 +1,15 @@
+PAPER METHOD
+Trial 1: 11.80ms
+Trial 2: 12.45ms
+Trial 3: 12.39ms
+Trial 4: 11.80ms
+Trial 5: 12.52ms
+Average: 12.19ms
+
+YOUR OPTIMIZATION
+Trial 1: 2.66ms
+Trial 2: 2.63ms
+Trial 3: 3.39ms
+Trial 4: 2.69ms
+Trial 5: 3.13ms
+Average: 2.90ms
